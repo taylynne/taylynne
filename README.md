@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My TODO list for this resume
+
+ [ ] Create a basic layout
+ [ ] Details about:
+    -> things I love
+    -> things I'm working on
+    -> things I've created
+    -> fun fact??
+[ ] pronouns/name/contact information
+[ ] photo of myself
+[ ] Stylize the layout!
+
+
+<< ----------------- >>
+Hey there! This is my resume page that I've created for Code.You KY! 
+I plan to continue to modify, update, and specialize this page.
+
+I hope I can express myself successfully with this page!
